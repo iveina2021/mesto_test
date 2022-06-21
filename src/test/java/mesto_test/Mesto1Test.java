@@ -20,7 +20,7 @@ public class Mesto1Test {
     }
 
     @Test
-    @DisplayName("Add a new photo")
+    @DisplayName("Check user name")
     @Description("This test is for adding a new photo to Mesto.")
     public void addNewPhoto() {
         given()
